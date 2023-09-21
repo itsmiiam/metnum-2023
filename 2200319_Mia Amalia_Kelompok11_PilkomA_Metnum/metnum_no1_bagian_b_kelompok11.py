@@ -1,4 +1,6 @@
 '''
+MIA AMALIA (2200319)
+METODE BAGI DUA
 no. 1
 b. f(x) = e^x - x
 '''
