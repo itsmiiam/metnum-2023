@@ -1,7 +1,10 @@
 '''
-no. 1
+ELLIORA ORVA LINNISA (2203451)
+METODE BAGI DUA
+No. 1
 a. f(x) = x^3 - 2x + 1
 '''
+
 import numpy as np
 
 def my_bisection(func, a, b, tol=1e-6, max_iterations=100):
