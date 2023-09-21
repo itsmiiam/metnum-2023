@@ -2,6 +2,7 @@
 no. 1
 a. f(x) = x^3 - 2x + 1
 '''
+#Metode Bagi Dua
 import numpy as np
 
 def my_bisection(func, a, b, tol=1e-6, max_iterations=100):
