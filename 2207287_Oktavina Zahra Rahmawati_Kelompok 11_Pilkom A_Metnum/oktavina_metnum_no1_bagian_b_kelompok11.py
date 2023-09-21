@@ -1,5 +1,6 @@
 '''
 Oktavina Zahra Rahmawati (2207287)
+METODE BAGI DUA
 No. 1
 b. f(x) = e^x - x
 '''
