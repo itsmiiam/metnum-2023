@@ -2,6 +2,7 @@
 no. 1
 b. f(x) = e^x - x
 '''
+#Metode Bagi Dua
 import numpy as np
 
 def my_bisection(func, a, b, tol=1e-6, max_iterations=100):
