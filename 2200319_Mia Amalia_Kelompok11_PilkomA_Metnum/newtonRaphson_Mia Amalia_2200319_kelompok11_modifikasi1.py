@@ -2,6 +2,7 @@
 Nama: Mia Amalia
 NIM: 2200319
 Newton Raphson
+modifikasi 1
 '''
 
 # Fungsi Newton-Raphson untuk mencari akar suatu fungsi
