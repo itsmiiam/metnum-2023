@@ -1,6 +1,6 @@
 '''
-Nama : Oktavina Zahra Rahmawati
-NIM : 2207287
+Nama : Elliora Orva Linnisa
+NIM : 2203451
 Kelas : Pendidikan Ilmu Komputer A
 Newton Rapshon
 
