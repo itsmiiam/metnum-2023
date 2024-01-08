@@ -1,7 +1,7 @@
 '''
     Nama  : Oktavina Zahra Rahmawati
-    NIM   : 2207275
-    Kelas : Pendidikan Ilmu Komputer A 2022
+    NIM   : 2207287
+    Kelas : Pendidikan Ilmu Komputer A
 
     INTERPOLASI
 '''
