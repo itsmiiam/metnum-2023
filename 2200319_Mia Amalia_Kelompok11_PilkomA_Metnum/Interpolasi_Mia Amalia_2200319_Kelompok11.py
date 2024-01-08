@@ -1,7 +1,7 @@
 '''
-    Nama  : Oktavina Zahra Rahmawati
-    NIM   : 2207275
-    Kelas : Pendidikan Ilmu Komputer A 2022
+    Nama  : Mia Amalia
+    NIM   : 2200319
+    Kelas : Pendidikan Ilmu Komputer A
 
     INTERPOLASI
 '''
